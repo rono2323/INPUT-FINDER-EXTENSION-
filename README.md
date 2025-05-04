@@ -25,3 +25,25 @@ Select the unzipped inputfind folder
 
 
 ![Screenshot 2025-05-04 130611](https://github.com/user-attachments/assets/e9761315-5492-4080-bcfb-919e365a1cc7)
+
+
+
+💡 How to Use
+Visit any website you want to test.
+
+Click the extension icon in the browser toolbar.
+
+Click "Find Inputs" to automatically detect all input fields on the page.
+
+View, copy, or export the input data as needed.
+
+⚙️ Use Cases
+Security recon for XSS, SQLi, IDOR
+
+Pentesting modern web apps
+
+Input mapping in bug bounty workflows
+
+Testing client-side input validation
+
+
