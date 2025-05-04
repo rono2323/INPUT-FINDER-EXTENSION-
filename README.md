@@ -20,3 +20,8 @@ Click “Load unpacked”
 Select the unzipped inputfind folder
 
 ✅ Done! The Input Finder Pro Extension Pro is now active in your browser.
+
+
+
+
+![Screenshot 2025-05-04 130611](https://github.com/user-attachments/assets/e9761315-5492-4080-bcfb-919e365a1cc7)
